@@ -1,0 +1,44 @@
+$ curl -v http://ads.vidz4fun.com/vad1.html
+
+
+*   Trying 54.76.71.181...
+* TCP_NODELAY set
+* Connected to ads.vidz4fun.com (54.76.71.181) port 80 (#0)
+> GET /vad1.html HTTP/1.1
+> Host: ads.vidz4fun.com
+> User-Agent: curl/7.52.1
+> Accept: */*
+>
+< HTTP/1.1 200 OK
+< Date: Wed, 14 Feb 2018 21:43:26 GMT
+< Content-Type: text/html
+< Content-Length: 300
+< Connection: keep-alive
+< Server: nginx/1.4.6 (Ubuntu)
+< Last-Modified: Thu, 23 Nov 2017 22:47:24 GMT
+< ETag: "5a174ffc-12c"
+< Accept-Ranges: bytes
+<
+<html>
+   <head>
+
+
+      <script type="text/javascript">
+         <!--
+        function Redirect() {
+               window.location="http://cnhv.co/fmwi";
+            }
+
+            setTimeout('Redirect()', 0);
+
+         //-->
+      </script>
+
+   </head>
+
+   <body>
+   </body>
+</html>
+
+* Curl_http_done: called premature == 0
+* Connection #0 to host ads.vidz4fun.com left intact
